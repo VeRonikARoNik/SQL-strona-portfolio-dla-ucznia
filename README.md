@@ -1,6 +1,4 @@
-===========================================
-README – Portfolio projektów (PHP + MySQL)
-===========================================
+Portfolio projektów (PHP + MySQL)
 
 1. OPIS PROJEKTU
 ----------------
