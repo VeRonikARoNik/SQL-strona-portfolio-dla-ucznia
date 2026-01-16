@@ -1,4 +1,5 @@
 https://www.studocu.com/pl/quiz/podstawowe-komendy-sql-do-baz-danych/5620990
+
 https://zawodowe.edu.pl/technik-informatyk/INF.03/?categories=INF.03-bazy-danych
 Portfolio projektów (PHP + MySQL)
 
