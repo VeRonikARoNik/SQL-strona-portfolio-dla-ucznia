@@ -36,7 +36,7 @@ w bazie danych, a zdjęcie projektu w katalogu "uploads/".
 
 4. STRUKTURA KATALOGÓW
 ----------------------
-
+```
 portfolio_zajecia/
 ├─ css/
 │  └─ style.css      <-- plik stylów CSS
@@ -44,7 +44,7 @@ portfolio_zajecia/
 ├─ config.php        <-- konfiguracja połączenia z bazą
 └─ index.php         <-- główna strona aplikacji
 
-
+```
 5. BAZA DANYCH (SQL)
 --------------------
 
